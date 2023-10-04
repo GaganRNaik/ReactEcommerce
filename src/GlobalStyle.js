@@ -92,6 +92,7 @@ ${"" /* resuable code section  */}
 .grid {
   display: grid;
   gap: 9rem;
+  
 }
 
 .grid-two-column {
